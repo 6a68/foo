@@ -1,0 +1,25 @@
+{
+  "name": "foo",
+  "version": "0.0.1",
+  "description": "sample scraper code for a blog post about tasks, generators, promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6a68/foo.git"
+  },
+  "keywords": [
+    "task.js",
+    "task",
+    "generators",
+    "promises"
+  ],
+  "author": "Jared Hirsch <ohai@6a68.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/6a68/foo/issues"
+  },
+  "homepage": "https://github.com/6a68/foo#readme"
+}
